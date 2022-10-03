@@ -1,6 +1,5 @@
 # Hangman Game (Jogo da Forca) 
 
-# Import
 import random
 
 # Board (tabuleiro)
